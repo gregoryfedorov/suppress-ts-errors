@@ -1,6 +1,6 @@
 {
   "name": "suppress-ts-errors",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "CLI tool to add @ts-expect-errors to typescript type errors",
   "main": "src/index.ts",
   "scripts": {
